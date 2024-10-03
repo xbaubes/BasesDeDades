@@ -6,4 +6,6 @@ En aquest repositori hi trobaràs els conceptes necessaris per aprendre bases de
 
 wiki: https://github.com/xbaubes/BasesDeDades/wiki
 
+drive: https://drive.google.com/drive/folders/1Ij-pvHYr0LlE0RudsHvB3fcz9EyxEgqw
+
 ---
